@@ -1,5 +1,7 @@
 # Customer Sentiment Analysis with NLP
-This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP). It uses NLTK toolkit for NLP and Beautifulsoup for web scraping of customer reviews. The aim of the project is to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
+* This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP).
+* It uses NLTK toolkit for NLP and Beautifulsoup for web scraping of customer reviews. 
+* The aim of the project is to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
 # Data
 The data used in this project is collected by web scraping of customer reviews of a product using Beautifulsoup. All reviews of the product were scraped and stored in a CSV file.
